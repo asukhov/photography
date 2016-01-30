@@ -1,5 +1,6 @@
+/* @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic"); */
 @import url(font-awesome.min.css);
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
+@import url("fonts.css");
 
 /* Reset */
 
@@ -329,6 +330,10 @@
 
 	.align-right {
 		text-align: right;
+	}
+	
+	.rus {
+			font-family: "Myriad Set Pro";	
 	}
 
 /* Button */
